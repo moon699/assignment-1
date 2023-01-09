@@ -6,6 +6,8 @@
     background-image: url('new-year-new-me/images/banner/banner3.png');
     width: 1536px;
     height: 800px;
+    border-radius: 8px;
+
 }
 .banner-heading{
     font-weight: 700;
@@ -32,5 +34,152 @@ padding: 50px 230px 30px 820px;
     text-align: right;
     margin: 32px 230px 30px 1145px;
     border-radius: 5px;
+    border: 1px solid #005FAC;
+}
+
+/* failure */
+.failure{
+    display: flex;
+    margin-top: 150px;
+    margin-left: 200px;
+    margin-right: 335px;
+
+}
+.failure-background-image{
+    
+    
+
+}
+.failure-article{
+    margin-left: 85px;
+    margin-top: 80px;
+}
+.failure-heading{
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    margin-top: 150px;
+}
+.failure-description{
+    font-weight: 400;
+font-size: 16px;
+color: #444343;
+margin-top: 25px;
+}
+.failure-points{
+font-weight: 400;
+font-size: 16px;
+color: #444343;
+margin-top: 10px;
+}
+/* my plans */
+.My-Plans{
+    margin-top: 92px;
+    text-align: center;
+    font-weight: 700;
+font-size: 40px;
+color: #151414;
+}
+.skill-container{
+    display: flex;
+    gap: 120px;
+    margin-top: 50px;
+    margin-left: 155px;
+    margin-bottom: 130px;
+}
+.skill{
+    text-align: center;
+}
+.skill-title{
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;
+}
+.skill-description{
+    font-weight: 500;
+font-size: 25px;
+color: #737272;
+}
+/* Awlays keep a positive mindset */
+.last-section{
+    
+}
+.last-container{
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%),  url("new-year-new-me/images/watch.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 130px 230px;
+    height: 300px;
+    border-radius: 8px;
+}
+
+.last-heading{
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+    padding: 60px 500px 20px 64px;
+}
+.call-btn{
+    color: #005FAC;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 1px solid #005FAC;
+    padding: 21px 36px ;
+    margin: 20px 64px auto 60px;
+}
+
+/* form */
+.my-future{
+    display: flex;
+    background-color: #151414;
+    height: 500px;
+}
+.future-container{
+    margin: 130px 200px 130px 230px;
+}
+.future-title{
+    color: #F8F8F8;
+    font-weight: 700;
+font-size: 45px;
+    margin-bottom: 16px;
+}
+.future-description{
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-bottom: 24px;
+}
+.fu-contact{
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-bottom: 15px;
+}
+.subscribe-container{
+    margin: 130px 230px auto 150px;
+}
+.subscribe-title{
+    font-weight: 600;
+    font-size: 25px;
+    color: #FFFFFF;
+    margin-bottom: 30px;
+}
+input{   
+    background: #151414;
+    padding: 21px 160px 21px 21px;
+    font-weight: 400;
+    font-size: 18px;
+    border-radius: 8px;
+    border: 1px solid #FFFFFF;
+}
+.subscribe-btn{
+    margin-top: 15px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+    background: #005FAC;
+    padding: 20px 36px;
+    border-radius: 8px;
     border: 1px solid #005FAC;
 }
