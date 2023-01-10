@@ -3,7 +3,7 @@
     font-family: 'work sans', sans-serif;
 }
 .banner-background-image{
-    background-image: url('new-year-new-me/images/banner/banner3.png');
+    background-image: url('images/banner/banner3.png');
     width: 1536px;
     height: 800px;
     border-radius: 8px;
@@ -105,7 +105,7 @@ color: #737272;
     
 }
 .last-container{
-    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%),  url("new-year-new-me/images/watch.png");
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%),  url("images/watch.png");
     background-repeat: no-repeat;
     background-position: center;
     margin: 130px 230px;
